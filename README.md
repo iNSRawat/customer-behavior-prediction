@@ -5,6 +5,10 @@ This project demonstrates a machine learning classification model built with rea
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-blue?style=flat-square&logo=python) ![Accuracy](https://img.shields.io/badge/Accuracy-82%25-brightgreen?style=flat-square) ![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20E--commerce-orange?style=flat-square)
 
+## Quick Start
+
+This repository contains the Customer Behavior Prediction project that was previously part of the data-science-analytics-projects collection.
+
 ## Dataset Information
 - **Source:** Kaggle E-commerce Dataset
 - **Total Records:** 12,330 customer session events
@@ -54,6 +58,14 @@ This project demonstrates a machine learning classification model built with rea
 ✅ **0.88 ROC-AUC** - Excellent discrimination  
 ✅ **Feature Engineering** - RFM scores, session quality metrics  
 ✅ **Class Imbalance Handling** - SMOTE application  
+
+## Key Metrics
+- Accuracy: 82%
+- Precision: 80%
+- Recall: 84%
+- ROC-AUC: 0.88
+- Dataset: 12,330 customer session events
+- Features: 18 behavioral variables
 
 ## Methodology
 
@@ -169,8 +181,10 @@ python customer_prediction.py
 - **Alternative Source:** [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - **Description:** Real-world e-commerce customer transaction data
 - **License:** CC0: Public Domain
+
 ## Author
 Nagendra Singh Rawat | Data Science & Analytics
+
 ## References
 - Kaggle: E-commerce Dataset
 - Scikit-learn Documentation
