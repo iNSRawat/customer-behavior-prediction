@@ -1,5 +1,8 @@
 # Customer Behavior Prediction - E-commerce Dataset
 
+[<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/>](https://www.kaggle.com/code/nsrawat/customer-behavior-prediction-e-commerce-dataset
+)
+
 ## Project Overview
 This project demonstrates a machine learning classification model built with real-world e-commerce customer data from Kaggle. The model predicts customer purchase intent using behavioral and demographic features, achieving **82% accuracy**.
 
