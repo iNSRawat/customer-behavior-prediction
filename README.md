@@ -1,4 +1,4 @@
-# Customer Behavior Prediction - E-commerce Dataset
+# Customer Behavior Prediction - E-commerce Dataset Customer Purchase Propensity Model
 
 [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/>](https://www.kaggle.com/code/nsrawat/customer-behavior-prediction-e-commerce-dataset
 )
